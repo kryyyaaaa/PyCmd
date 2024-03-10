@@ -16,3 +16,9 @@ PyCmd - Адаптация Windows Cmd с кастомными командам�
 
 ### En
 PyCmd - Adaptation of Windows Cmd with custom commands!
+
+
+#### For browser
+```pkg pycmd.browser```
+then
+```browser```

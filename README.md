@@ -22,3 +22,6 @@ PyCmd - Adaptation of Windows Cmd with custom commands!
 ```pkg pycmd.browser```
 then
 ```browser```
+
+#### Status
+🟡 We are working on an update
